@@ -1,0 +1,8 @@
+{
+  "currencies": [
+    {"name": "USD", "rate": 1},
+    {"name": "EUR", "rate": 0.85},
+    {"name": "THB", "rate": 0.030},
+    {"name": "JPY", "rate": 0.0066}
+  ]
+}
